@@ -2,6 +2,9 @@
 import './App.css';
 import DisplayEmp from './Components/DisplayEmp';
 import DisplayEmployee from './Components/DisplayEmployee';
+import IncreaseQty from './Components/IncreaseQty';
+import UpdateState from './Components/UpdateState';
+import UpdateUseEfeect from './Components/UpdateUseEfeect';
 
 function App() {
   return (
@@ -25,6 +28,9 @@ function App() {
       <h1>hello React</h1>
       <DisplayEmp/>
       <DisplayEmployee/>
+      <IncreaseQty/>
+      <UpdateState/>
+      <UpdateUseEfeect/>
     </div>
   );
 }
