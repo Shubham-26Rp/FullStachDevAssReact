@@ -1,6 +1,6 @@
 //6) Pass Data from 1 component to another component  ---parent component
 import React, { Component } from 'react'
-import Showqty from './showqty'
+import Showqty from './Showqty.js'
 
 
 export default class IncreaseQty extends Component {
