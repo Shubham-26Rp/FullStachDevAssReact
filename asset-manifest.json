@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FullStachDevAssReact/static/css/main.073c9b0a.css",
+    "main.js": "/FullStachDevAssReact/static/js/main.87fb9119.js",
+    "static/js/787.5d7f8fa3.chunk.js": "/FullStachDevAssReact/static/js/787.5d7f8fa3.chunk.js",
+    "index.html": "/FullStachDevAssReact/index.html",
+    "main.073c9b0a.css.map": "/FullStachDevAssReact/static/css/main.073c9b0a.css.map",
+    "main.87fb9119.js.map": "/FullStachDevAssReact/static/js/main.87fb9119.js.map",
+    "787.5d7f8fa3.chunk.js.map": "/FullStachDevAssReact/static/js/787.5d7f8fa3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.87fb9119.js"
+  ]
+}
