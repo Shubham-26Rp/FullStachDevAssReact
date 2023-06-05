@@ -1,3 +1,4 @@
+//1) A class  component example 
 import react, { Component } from "react";
 import reactDom from "react-dom";
 

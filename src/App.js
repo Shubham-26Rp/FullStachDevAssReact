@@ -3,8 +3,10 @@ import './App.css';
 import DisplayEmp from './Components/DisplayEmp';
 import DisplayEmployee from './Components/DisplayEmployee';
 import IncreaseQty from './Components/IncreaseQty';
+import { ScrollDiv } from './Components/ScrollDiv';
 import UpdateState from './Components/UpdateState';
 import UpdateUseEfeect from './Components/UpdateUseEfeect';
+import { ScrollDiv } from './Components/ScrollDiv';
 
 function App() {
   return (
@@ -31,6 +33,7 @@ function App() {
       <IncreaseQty/>
       <UpdateState/>
       <UpdateUseEfeect/>
+      <ScrollDiv/>
     </div>
   );
 }
